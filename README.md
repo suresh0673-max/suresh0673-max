@@ -1,4 +1,4 @@
-# Hello! I am Suresh Vishwakarma 👋
+# Suresh Vishwakarma
 
 **Aviation Maintenance Professional (20 Years) → Transitioning into Data Science & AI**
 
